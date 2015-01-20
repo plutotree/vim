@@ -41,7 +41,7 @@ filetype indent on
 set nobackup
 
 "Set file encodings
-set fileencodings=gbk,utf8
+set fileencodings=utf8,gbk
 set encoding=prc
 
 "Set auto indent
